@@ -4,8 +4,17 @@
 }
 
 .maxWidthWrapper {
+    position: relative;
 }
 
+.perspectiveEffect {
+    position: fixed;
+    top: 60%;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    background-color: hsl(195deg, 20%, 86%);
+}
 .header {
   padding-bottom: 64px;
   width: 65%;
