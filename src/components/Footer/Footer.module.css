@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-.footerLink {
-    color: white;
+.footer a {
+    color: inherit;
 }
 
